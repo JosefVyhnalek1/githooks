@@ -2,3 +2,5 @@
 echo "========================================="
 echo "HO "
 touch x
+echo "a " > x
+git add x
